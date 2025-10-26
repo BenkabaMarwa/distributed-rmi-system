@@ -7,9 +7,8 @@ A Java RMI (Remote Method Invocation) project demonstrating how a client and ser
 ## 🧩 Project Structure
 
 ├── clientRmi/
-└── serverRmi/
-├── README.md
-└── RMIinterface.java
+├── serverRmi/
+└── README.md
 
 - `clientRmi` → Contains client-side implementation.
 - `serverRmi` → Contains server-side implementation.
@@ -23,10 +22,12 @@ A Java RMI (Remote Method Invocation) project demonstrating how a client and ser
    ```bash
    javac src/**/*.java
   ``
+  
 2. Start the RMI Registry
   ```bash
   rmiregistry
   ```
+
 3. Run the server
   ```bash
   java serverRmi.Server
