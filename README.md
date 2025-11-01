@@ -45,3 +45,7 @@ A Java RMI (Remote Method Invocation) project demonstrating how a client and ser
 This project is licensed under the MIT License – you’re free to use, modify, and share it.
 
 ---
+
+## 👩‍💻 Author
+
+Benkaba Marwa
